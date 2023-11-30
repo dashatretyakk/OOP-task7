@@ -1,1 +1,1 @@
-# OOP-task7
+7. Використовуючи механізм synchronized wait notify, імплементувати Cyclic Barrier
